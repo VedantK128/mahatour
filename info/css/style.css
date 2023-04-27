@@ -1,6 +1,6 @@
 header {
-    background-image: url(../info/vijay.jpg);
-    background-size: auto;
+    background-image: url(../imgs/header.jpg);
+    background-size: cover;
 }
 
 .small-container {
