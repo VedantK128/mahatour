@@ -1,3 +1,3 @@
 # mahatour
 A Website dedicated to Maharashtra tourism. 
-Here we wll soon comit some *stuff* stay tuned!
+Got some **exautic** *stuff* , and breathtaking places to blow your mind and fuilfill that Adventure wishes!
